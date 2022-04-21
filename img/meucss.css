@@ -1,0 +1,32 @@
+a:hover{
+    color: #0000ff;
+    border: solid #ff0000 2px;
+    font-size: 2em;
+
+}
+a:visited{
+    color: chartreuse;
+}
+
+a:link{
+    color: darkorange;
+}
+
+h2:hover{
+    color: darkred;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+
+}
+#topo{
+    
+    background-image: url("../img/fundo-pc.jpg");
+}
+
+#bg{
+    background-image: url("../img/eventos.jpg");
+    
+}
